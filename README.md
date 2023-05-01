@@ -138,12 +138,20 @@ void loop() {
  }
 
 ## CIRCUIT DIAGRAM:
+![image](https://user-images.githubusercontent.com/112933167/235421315-31731d23-08f0-4e14-8768-c5b681e2cdc0.png)
+
+
+
 
 
 
 ## OUTPUT:
+![image](https://user-images.githubusercontent.com/112933167/235421448-13530fa2-360a-4299-8a62-5d4e4354e5c4.png)
 
-![Uploading image.png…]()
+
+
+
+
 
 
 ## RESULT:
